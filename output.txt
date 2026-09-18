@@ -1,0 +1,10 @@
+Encrypted text:
+KHOOR ZRUOG
+WKLV LV FDHVDU FLSKHU!
+
+
+
+Decrypted text:
+HELLO WORLD
+THIS IS CAESAR CIPHER!
+
