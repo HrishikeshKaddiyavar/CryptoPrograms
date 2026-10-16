@@ -1,3 +1,5 @@
+# permutation cipher
+
 def encrypt(text, key):
     result = ""
 
